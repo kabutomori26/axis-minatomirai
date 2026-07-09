@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# エディタ
+.vscode/
+.idea/
+
+# ローカル環境設定
+.claude/
+
+# ログ・環境変数
+*.log
+.env
